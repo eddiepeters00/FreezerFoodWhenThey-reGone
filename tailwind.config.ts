@@ -43,5 +43,7 @@ const config: Config = {
 
       addUtilities(newUtilities, ['responsive', 'hover']);
     },
-  ],};
+  ],
+};
+
 export default config;
